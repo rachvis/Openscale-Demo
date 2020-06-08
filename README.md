@@ -1,1 +1,1 @@
-# Openscale-Demo
+# Openscale Demo
